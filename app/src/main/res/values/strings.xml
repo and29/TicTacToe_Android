@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchEvent</string>
+    <string name="cellDescription">TicTacToe cell grid</string>
+    <string name="restart">Restart</string>
+</resources>

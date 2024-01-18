@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="symbolHeight">100dp</dimen>
+    <dimen name="symbolWidth">100dp</dimen>
+    <dimen name="symbolMargin">13dp</dimen>
+</resources>
